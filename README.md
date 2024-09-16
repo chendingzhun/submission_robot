@@ -8,9 +8,9 @@
 
 # 最新功能更新日期：2024年6月27日
 
-更新通知频道：[纸飞机：@submission_robot_channel](https://t.me/submission_robot_channel)
+更新通知频道：[纸飞机：@tg_jsss](https://t.me/tg_jsss)
 
-交流群：[纸飞机：@submission_robot_chat](https://t.me/submission_robot_chat)
+交流群：[纸飞机：@tg_jsss](tg_jsss](https://t.me/tg_jsss)
 
 ## 功能列表
 - [x] 多Bot管理
